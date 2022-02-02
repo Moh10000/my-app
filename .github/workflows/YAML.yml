@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/Moh-Abdoul/Sample-Pipeline
             azure-pipeline-name: 'Moh10000.my-app'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+            azure-devops-token: ${{ secrets.Moh10000 }}
